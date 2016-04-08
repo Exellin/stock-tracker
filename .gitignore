@@ -21,3 +21,6 @@
 
 #ignore spring 1000
 /spring-1000
+
+#ignore rubocop files
+/1000
